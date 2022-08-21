@@ -1,0 +1,14 @@
+{
+	"Books": [
+%Row Start%
+		{"Book Id": %id%,
+			"Title": %book name%,
+            "Author": %author%,
+            "Book Details": {
+                "Length": %book length%,
+                "Genre": %genre%
+            }
+	    }
+%Row End%
+	]
+}

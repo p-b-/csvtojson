@@ -1,0 +1,23 @@
+{
+	"Humans": [
+%Row Start%
+		{"Human Id": %humanId%,
+			"Username": %humanName%,
+			"Dogs": [{
+					"Dog Name": %dogName%,
+                    "Toys": [ %toyName%,
+                        %toyName%,
+                        %toyName%
+                    ]
+				},
+				{"Dog Name": %dogName%,
+                    "Toys": [ %toyName%,
+                        %toyName%,
+                        %toyName%
+                    ]
+                }
+            ]
+	    }
+%Row End%
+	]
+}

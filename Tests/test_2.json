@@ -1,0 +1,27 @@
+{
+	"csv": [{
+			"id": "1",
+			"name": "Paul",
+			"language": "English",
+			"grade": "B"
+		},
+		{
+			"id": "2",
+			"name": "Dave",
+			"language": "Italian",
+			"grade": "C"
+		},
+		{
+			"id": "3",
+			"name": "Beth",
+			"language": "French",
+			"grade": "A"
+		},
+		{
+			"id": "4",
+			"name": "Isla",
+			"language": "Spanish",
+			"grade": "B"
+		}
+	]
+}

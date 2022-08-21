@@ -1,0 +1,38 @@
+{
+	"books": [{
+			"id": 1,
+			"book name": "Catch 22",
+			"author": "Heller, Jospher",
+			"book length": "not long enough",
+			"genre": "satire"
+		},
+		{
+			"id": 2,
+			"book name": "Cows",
+			"author": "Stokoe, Matthew",
+			"book length": "perhaps too long",
+			"genre": "comedy"
+		},
+		{
+			"id": 3,
+			"book name": "American Psycho",
+			"author": "Ellis, Bret-Eaton",
+			"book length": "just about right",
+			"genre": "comedy"
+		},
+		{
+			"id": 4,
+			"book name": "David Copperfield",
+			"author": "Dickens, Charles",
+			"book length": "way too long",
+			"genre": "historical fiction"
+		},
+		{
+			"id": 5,
+			"book name": "Squids will be Squids",
+			"author": "Scieszka, Jon",
+			"book length": "far too short",
+			"genre": "childrens fables"
+		}
+	]
+}
